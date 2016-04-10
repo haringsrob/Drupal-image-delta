@@ -1,5 +1,7 @@
 name: Image delta
 description: 'An image delata formatter, to show just the # image.'
 type: module
+package: Media
+dependencies:
+  - image
 core: 8.x
-version: 8.x-1.0

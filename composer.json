@@ -3,5 +3,7 @@
   "type": "drupal-module",
   "description": "Delta formatter to show just the # image",
   "homepage": "http://harings.be",
-  "license": "GPL-2.0+"
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
 }
