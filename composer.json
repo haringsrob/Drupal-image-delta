@@ -1,7 +1,7 @@
 {
   "name": "harings/image_delta",
   "type": "drupal-module",
-  "description": "Delta formatter to show just the first image",
+  "description": "Delta formatter to show just the # image",
   "homepage": "http://harings.be",
   "license": "GPL-2.0+"
 }
