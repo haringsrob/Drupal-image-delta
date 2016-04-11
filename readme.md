@@ -7,7 +7,7 @@ This is usefull when you allow multiple images to be uploaded but only want to s
 This module will become obsolete once [d.o#1234624](https://www.drupal.org/node/1234624) lands (probably 8.2)
 
 Alternative modules:
-* (field_multiple_limit)[https://www.drupal.org/project/field_multiple_limit] but it uses an alternative approach.
+* [field_multiple_limit](https://www.drupal.org/project/field_multiple_limit) but it uses an alternative approach.
 
 ### How to install
 
